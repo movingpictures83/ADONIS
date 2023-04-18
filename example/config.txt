@@ -1,0 +1,2 @@
+Prefix plugins/ADONIS/example/
+Plugin ADONIS inputfile parameters.txt outputfile WUniFrac

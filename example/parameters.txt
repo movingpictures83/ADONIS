@@ -1,0 +1,4 @@
+matrix	weighted_unifrac_dm.txt
+mapping	mapping.txt
+column	Description
+method	adonis
